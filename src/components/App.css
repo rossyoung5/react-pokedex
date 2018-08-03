@@ -1,0 +1,28 @@
+.app-container {
+  max-width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-end;
+}
+.pokedex-left {
+  background-color: darkred;
+  width: 55%;
+  min-height: 800px;
+  box-shadow: -5px 10px 1px 1px rgb(58, 7, 7),
+              -5px 0px 1px 1px rgb(58, 7, 7);
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pokedex-right {
+  background-color: darkred;
+  width: 45%;
+  height: 600px;
+  box-shadow: 5px 5px 1px 1px rgb(58, 7, 7),
+              5px 0px 1px 1px rgb(58, 7, 7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

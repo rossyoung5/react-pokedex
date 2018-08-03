@@ -1,0 +1,17 @@
+.Screen {
+    height: 300px;
+    width: 350px;
+    background-color: #000;
+    border: 30px solid lightgray;
+    border-radius: 10px;
+    position: relative;
+}
+
+.pokemon-sprite {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 290px;
+    width: 290px;
+}
