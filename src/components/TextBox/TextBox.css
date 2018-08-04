@@ -5,3 +5,9 @@
     position: relative;
     box-shadow: 1px 1px 3px 3px #000;
 }
+
+#pokemon-name {
+    color: white;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
