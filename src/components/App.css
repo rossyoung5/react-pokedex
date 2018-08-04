@@ -3,6 +3,7 @@
   margin: 0 auto;
   display: flex;
   align-items: flex-end;
+  padding-top: 3em;
 }
 .pokedex-left {
   background-color: darkred;
